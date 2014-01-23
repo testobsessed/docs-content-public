@@ -1,0 +1,3 @@
+# If this were a real section...
+
+It would have interesting content. Nothing to see here. Move on.
