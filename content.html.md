@@ -1,3 +1,5 @@
 # If this were a real section...
 
 It would have interesting content. Nothing to see here. Move on.
+
+Adding another line that is new after the mydocs-1.0.0.1 tag.
